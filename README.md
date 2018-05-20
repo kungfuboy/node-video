@@ -14,8 +14,8 @@ npm i -S node-video
 
 ## Options
 
-* `root` 视频或者音频的根目录, 默认是 `process.cwd()`.
-* `extMatch` 请求路径的匹配规则，可以是 数组、正则(匹配资源的后缀名)，默认是 `['.mp4', '.flv', '.webm', '.ogv', '.mpg', ".mpg", '.wav', '.ogg']`
+* `root`: 视频或者音频的根目录, 默认是 `process.cwd()`.
+* `extMatch`: 请求路径的匹配规则，可以是 数组、正则(匹配资源的后缀名)，默认是 `['.mp4', '.flv', '.webm', '.ogv', '.mpg', ".mpg", '.wav', '.ogg']`
 
 ## Example
 
