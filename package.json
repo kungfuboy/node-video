@@ -1,0 +1,26 @@
+{
+  "name": "node-video",
+  "version": "1.0.0",
+  "description": "node paly video/audio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "video",
+    "audio",
+    "mp4",
+    "mp3"
+  ],
+  "author": "17kungfuboy@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kungfuboy/node-video.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kungfuboy/node-video/issues"
+  },
+  "homepage": "https://github.com/kungfuboy/node-video#readme"
+}
